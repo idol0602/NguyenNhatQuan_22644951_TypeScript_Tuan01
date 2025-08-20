@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    // File structure
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    // Module and target
+    "target": "ESNext",
+    "module": "ESNext", // Use ES modules
+    "moduleResolution": "Node", // Resolves node_modules properly
+
+    // Type system
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+
+    // Declaration files
+    "declaration": true,
+    "declarationMap": true,
+
+    // Output
+    "sourceMap": true,
+
+    // Advanced features
+    "verbatimModuleSyntax": false, // Allow omitting extensions in imports
+    "isolatedModules": false,
+
+    // Skip type checking for libraries
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
