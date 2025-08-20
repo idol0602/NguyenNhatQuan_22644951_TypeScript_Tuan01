@@ -17,6 +17,5 @@ export class Car {
   }
 }
 
-// Example usage:
 const car1 = new Car("Toyota", "Camry", 2020);
 car1.showInfo();

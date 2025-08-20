@@ -14,7 +14,6 @@ export class Car {
         console.log(`Year: ${this.year}`);
     }
 }
-// Example usage:
 const car1 = new Car("Toyota", "Camry", 2020);
 car1.showInfo();
 //# sourceMappingURL=ex3.js.map
