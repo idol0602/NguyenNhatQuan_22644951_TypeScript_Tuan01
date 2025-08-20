@@ -1,0 +1,1 @@
+{"version":3,"file":"ex3.d.ts","sourceRoot":"","sources":["../src/ex3.ts"],"names":[],"mappings":"AACA,qBAAa,GAAG;IACd,KAAK,EAAE,MAAM,CAAC;IACd,KAAK,EAAE,MAAM,CAAC;IACd,IAAI,EAAE,MAAM,CAAC;gBAED,KAAK,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM,EAAE,IAAI,EAAE,MAAM;IAMtD,QAAQ,IAAI,IAAI;CAKjB"}
