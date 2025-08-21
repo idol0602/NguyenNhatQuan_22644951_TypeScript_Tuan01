@@ -22,7 +22,7 @@
     "sourceMap": true,
 
     // Advanced features
-    "verbatimModuleSyntax": false, // Allow omitting extensions in imports
+    //"verbatimModuleSyntax": false, // Allow omitting extensions in imports
     "isolatedModules": false,
 
     // Skip type checking for libraries
